@@ -1,0 +1,23 @@
+To set up the Spam Classifier Web App on your local machine, please follow these steps:
+
+Step 1: Clone the Repository
+Clone the repository to your local machine using the following command:
+git clone https://github.com/your-username/spam-classifier-web-app.git
+
+Step 2: Update File Paths
+Before running the application, update the file paths in the app.py file to match the directory structure on your machine.
+Update the paths for spam_classifier_model.h5 and tokenizer.pickle files in the app.py file to reflect their locations on your machine.
+
+Step 3: Create Templates Directory
+Create a templates directory in the project root directory if it doesn't already exist. Place the index.html file inside this directory.
+
+Step 4: Install Dependencies
+Install the required dependencies listed in the requirements.txt file using pip:
+pip install -r requirements.txt
+
+Step 5: Run the Application
+Run the Flask application by executing the app.py file:
+python app.py
+
+Step 6: Access the Web App
+Access the web app by navigating to http://localhost:8080 in your web browser.

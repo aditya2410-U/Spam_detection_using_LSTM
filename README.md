@@ -25,6 +25,7 @@ Detect spam messages with high accuracy using an LSTM-based deep learning model.
 📑 Dataset: [SMS Spam Collection Dataset](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection)
 
 🔗 Make your text classification models robust and effective. Dive into the code now!
+
 📚 Project Images:
  ![1](https://github.com/aditya2410-U/Spam_detection_using_LSTM/assets/102215488/2b4c6d94-8f60-458c-bdfc-6bdd8236377c)
 

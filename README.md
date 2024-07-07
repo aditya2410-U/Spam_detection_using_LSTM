@@ -27,6 +27,10 @@ Detect spam messages with high accuracy using an LSTM-based deep learning model.
 🔗 Make your text classification models robust and effective. Dive into the code now!
 
 📚 Project Images:
+ With Background video
+ ![lats](https://github.com/aditya2410-U/Spam_detection_using_LSTM/assets/102215488/b28f37ac-5e5c-4d85-9208-45af5c6ffecd)
+
+
  ![1](https://github.com/aditya2410-U/Spam_detection_using_LSTM/assets/102215488/2b4c6d94-8f60-458c-bdfc-6bdd8236377c)
 
  Spam
